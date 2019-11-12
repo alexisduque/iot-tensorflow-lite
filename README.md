@@ -3,7 +3,9 @@ Code and demo for my Tools in Action at Devoxx Belgium about Tensorflow Lite for
 
 ## Slides
 
-Slides with instruction are available on [speakerdeck](https://speakerdeck.com/alexisduque/make-your-iot-even-smarter-with-tensorflow-lite-to-design-the-future-of-vertical-farming) or [in this repo](./slides/slides.pdf)
+Slides with instruction are available on [speakerdeck](https://speakerdeck.com/alexisduque/make-your-iot-even-smarter-with-tensorflow-lite-to-design-the-future-of-vertical-farming) or [in this repo](./slides)
+
+The slides presented at DevoxxMA can be found [there:](https://speakerdeck.com/alexisduque/rendre-son-iot-encore-plus-intelligent-avec-tensorflow-lite)
 
 ## Setup your environnement
 
