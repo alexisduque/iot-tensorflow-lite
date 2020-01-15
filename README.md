@@ -1,5 +1,5 @@
-# Tools-in-Action: Tensorflow Lite for IoT at Devoxx Belgium 2019
-Code and demo for my Tools in Action at Devoxx Belgium about Tensorflow Lite for IoT
+# Tools-in-Action: Tensorflow Lite for IoT
+Code and demo for my Tools in Action about Tensorflow Lite for IoT
 
 ## Slides
 
